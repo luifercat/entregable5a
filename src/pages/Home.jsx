@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import FooterPokeBall from "../components/layout/footerPokeBall";
+import FooterPokeBall from "../components/layout/FooterPokeBall";
 import { loginTrainer } from "../store/slices/trainer.slice";
 import { useNavigate } from "react-router-dom";
 
